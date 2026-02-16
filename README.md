@@ -9,8 +9,8 @@ The dataset is from the UCI Machine Learning Repository and contains information
 ## Model Comparison Plan
 We evaluate five multivariate models to identify the best performer for the Yeast dataset's specific topography:
 
-* **Isolation Forest:** 
-* **Mahalanobis Distance:** 
-* **Local Outlier Factor (LOF):** 
-* **Gaussian Mixture Model (GMM):**
-* **One-Class SVM:**
+* **Isolation Forest** 
+* **Mahalanobis Distance** 
+* **Local Outlier Factor (LOF)** 
+* **Gaussian Mixture Model (GMM)**
+* **One-Class SVM**
